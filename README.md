@@ -15,3 +15,4 @@
    4. [接口加参数](https://blog.csdn.net/weixin_43453386/article/details/83419060)
    5. [@TableId](https://blog.csdn.net/huarenguo/article/details/108226079?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165734912216782395315767%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165734912216782395315767&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-108226079-null-null.142^v32^pc_rank_34,185^v2^control&utm_term=mybatis%20plus%20selectbyid%E4%BD%BF%E7%94%A8&spm=1018.2226.3001.4187)
    6. [uid 使用包装类](https://blog.csdn.net/lydms/article/details/118523445?ops_request_misc=&request_id=&biz_id=102&utm_term=This%20primary%20key%20of%20%22uid%22%20is%20p&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-118523445.142^v32^pc_rank_34,185^v2^control&spm=1018.2226.3001.4187)
+   7. [@Autowired mapper报红](https://blog.csdn.net/hanhanhanxu/article/details/103530519)
